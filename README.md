@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about *Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
 
-- 📫 How to reach me ** gking7210@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.upwork.com/freelancers/~01284c09c53712e95d?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2Fdetails%2F~01284c09c53712e95d%2Fprofile" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRxx4Q1Ez4mYSgyeficw6D3XTJ-q_VBi60WauCd7_fNFx_WGXnRG-pOeo2AViX49yYEcc&usqp=CAU" alt="vivekahuja" height="30" width="40" /></a>
