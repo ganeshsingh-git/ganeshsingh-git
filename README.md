@@ -26,7 +26,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **more on swiftUI and kotlin compose**
 
-- 💬 Ask me about *Android, Java , Kotlin , Swift , React JS , React Native , UI/UX design , C , C++ , Firebase & GitHub*
+- 💬 Ask me about 
+𝐅𝐫𝐨𝐧𝐭-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Native Android (Kotlin, Java) & iOS (Swift), Angular.js
+𝐁𝐚𝐜𝐤-𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Ruby on Rails, Node.js (Express.js), Python (Django, Flask), .NET
+𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐀𝐏𝐈𝐬: Websockets, REST API, GraphQL, OAuth, Auth0, Stripe, PayPal, SendGrid, Socket.io
+𝐂𝐈/𝐂𝐃 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞𝐬: GitHub Actions, Jenkins, GitLab CI
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐒𝐭𝐨𝐫𝐚𝐠𝐞: MongoDB, PostgreSQL, MySQL, Redis, Memcached, MinIO, Amazon S3
+𝐃𝐞𝐯𝐎𝐩𝐬 & 𝐂𝐥𝐨𝐮𝐝: Docker, Kubernetes, AWS (Lambda, S3), Google Cloud, Firebase, Microsoft Azure, Terraform
+𝐓𝐨𝐨𝐥𝐬 & 𝐎𝐭𝐡𝐞𝐫𝐬: Android Studio, Postman, JavaScript, AI, ML, NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
