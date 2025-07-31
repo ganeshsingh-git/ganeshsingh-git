@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring advanced blockchain architectures, smart contract optimization, and Web3 integrations
 
-- 💬 Ask me about
+  💬 Ask me about
 * 🔄 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐍𝐨-𝐂𝐨𝐝𝐞 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬: n8n, Zapier, Make (Integromat), Pabbly, Airtable Automations | CRM syncs, lead capture flows, Slack/Discord bots, email triggers, custom workflows | Webhooks, SaaS APIs, custom triggers/actions
 * 🔗 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Solidity, Web3.js, Ethers.js | Ethereum, Polygon, Binance Smart Chain | ERC-20/721 tokens, wallets, full-stack dApps | Truffle, Hardhat, Remix | IPFS, Chainlink, Moralis
 * 🧠 𝐀𝐈 / 𝐌𝐋 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: GPT-4, LangChain, Whisper, Dialogflow, Rasa | TensorFlow, Hugging Face, Scikit-learn | Python (Pandas, NumPy, Matplotlib) | Custom ML-enhanced dashboards & analytics
