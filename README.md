@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **more on swiftUI and kotlin compose**
 
 - 💬 Ask me about
-🔄 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐍𝐨-𝐂𝐨𝐝𝐞 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬: n8n, Zapier, Make (Integromat), Pabbly, Airtable Automations | CRM syncs, lead capture flows, Slack/Discord bots, email triggers, custom workflows | Webhooks, SaaS APIs, custom triggers/actions
+* 🔄 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐍𝐨-𝐂𝐨𝐝𝐞 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬: n8n, Zapier, Make (Integromat), Pabbly, Airtable Automations | CRM syncs, lead capture flows, Slack/Discord bots, email triggers, custom workflows | Webhooks, SaaS APIs, custom triggers/actions
 🔗 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Solidity, Web3.js, Ethers.js | Ethereum, Polygon, Binance Smart Chain | ERC-20/721 tokens, wallets, full-stack dApps | Truffle, Hardhat, Remix | IPFS, Chainlink, Moralis
 🧠 𝐀𝐈 / 𝐌𝐋 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: GPT-4, LangChain, Whisper, Dialogflow, Rasa | TensorFlow, Hugging Face, Scikit-learn | Python (Pandas, NumPy, Matplotlib) | Custom ML-enhanced dashboards & analytics
 🌐 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯: React.js, HTML/CSS/JS | Node.js (Express), Python (Web.py), Ruby on Rails | REST, GraphQL, WebSockets, Auth0, OAuth | Docker, GitHub Actions, Kubernetes | MongoDB, PostgreSQL, MySQL, Redis | AWS (Lambda, EC2, S3), Firebase, Google Cloud
