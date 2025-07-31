@@ -27,11 +27,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently exploring advanced blockchain architectures, smart contract optimization, and Web3 integrations
 
   💬 Ask me about
-* 🔄 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐍𝐨-𝐂𝐨𝐝𝐞 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬: n8n, Zapier, Make (Integromat), Pabbly, Airtable Automations | CRM syncs, lead capture flows, Slack/Discord bots, email triggers, custom workflows | Webhooks, SaaS APIs, custom triggers/actions
-* 🔗 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭: Solidity, Web3.js, Ethers.js | Ethereum, Polygon, Binance Smart Chain | ERC-20/721 tokens, wallets, full-stack dApps | Truffle, Hardhat, Remix | IPFS, Chainlink, Moralis
-* 🧠 𝐀𝐈 / 𝐌𝐋 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: GPT-4, LangChain, Whisper, Dialogflow, Rasa | TensorFlow, Hugging Face, Scikit-learn | Python (Pandas, NumPy, Matplotlib) | Custom ML-enhanced dashboards & analytics
-* 🌐 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯: React.js, HTML/CSS/JS | Node.js (Express), Python (Web.py), Ruby on Rails | REST, GraphQL, WebSockets, Auth0, OAuth | Docker, GitHub Actions, Kubernetes | MongoDB, PostgreSQL, MySQL, Redis | AWS (Lambda, EC2, S3), Firebase, Google Cloud
-* 📱 𝐌𝐨𝐛𝐢𝐥𝐞 𝐀𝐩𝐩 𝐃𝐞𝐯: React Native, Kotlin, Swift | Firebase, AWS, Google Cloud | Stripe, PayPal integrations | Push notifications (FCM, OneSignal)
+Automations, Webhooks, SaaS APIs, custom triggers/actions
+
+🔗 𝐁𝐋𝐎𝐂𝐊𝐂𝐇𝐀𝐈𝐍 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: Solidity, Web3.js, Ethers.js, Truffle, Hardhat, Remix, Ethereum, Polygon, BSC, IPFS, Chainlink, Moralis
+
+* 🧠 𝐀𝐈 / 𝐌𝐋 𝐈𝐍𝐓𝐄𝐆𝐑𝐀𝐓𝐈𝐎𝐍: GPT-4, LangChain, Whisper, Hugging Face, Scikit-learn, TensorFlow, Dialogflow, Rasa, Python (Pandas, NumPy, Matplotlib), ML-based analytics
+* 🌐 𝐅𝐔𝐋𝐋-𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: React.js, HTML/CSS/JS, Node.js (Express), Python (Web.py), Ruby on Rails, REST, GraphQL, WebSockets, Auth0, OAuth
+* ⚙️ 𝐂𝐈/𝐂𝐃 & 𝐃𝐞𝐯𝐎𝐩𝐬: Docker, Kubernetes, GitHub Actions, Firebase, Jenkins, GitLab CI
+* 🗄️ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐒𝐭𝐨𝐫𝐚𝐠𝐞: MongoDB, PostgreSQL, MySQL, Redis, Amazon S3
+* 📱 𝐌𝐎𝐁𝐈𝐋𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: React Native, Firebase, AWS Amplify, Push Notifications (FCM, OneSignal), Payments (Stripe, PayPal)
 - 🚀 𝐖𝐡𝐚𝐭 𝐒𝐞𝐭𝐬 𝐌𝐞 𝐀𝐩𝐚𝐫𝐭: Blockchain-first architecture | AI-powered apps | Fast Python backends with Web.py | MERN stack mastery | Timezone-friendly (US, UK, AU, CA) | 40+ hrs/week availability
 
 <h3 align="left">Connect with me:</h3>
