@@ -30,11 +30,10 @@ Here are some ideas to get you started:
 Automations, Webhooks, SaaS APIs, custom triggers/actions
 * 🔗 𝐁𝐋𝐎𝐂𝐊𝐂𝐇𝐀𝐈𝐍 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: Solidity, Web3.js, Ethers.js, Truffle, Hardhat, Remix, Ethereum, Polygon, BSC, IPFS, Chainlink, Moralis
 * 🧠 𝐀𝐈 / 𝐌𝐋 𝐈𝐍𝐓𝐄𝐆𝐑𝐀𝐓𝐈𝐎𝐍: GPT-4, LangChain, Whisper, Hugging Face, Scikit-learn, TensorFlow, Dialogflow, Rasa, Python (Pandas, NumPy, Matplotlib), ML-based analytics
-* 🌐 𝐅𝐔𝐋𝐋-𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: React.js, HTML/CSS/JS, Node.js (Express), Python (Web.py), Ruby on Rails, REST, GraphQL, WebSockets, Auth0, OAuth
+* 🌐 𝐅𝐔𝐋𝐋-𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: React.js, HTML/CSS/JS, Node.js (Express), Python (Web.py), REST, GraphQL, WebSockets, Auth0, OAuth
 * ⚙️ 𝐂𝐈/𝐂𝐃 & 𝐃𝐞𝐯𝐎𝐩𝐬: Docker, Kubernetes, GitHub Actions, Firebase, Jenkins, GitLab CI
 * 🗄️ 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐚𝐧𝐝 𝐒𝐭𝐨𝐫𝐚𝐠𝐞: MongoDB, PostgreSQL, MySQL, Redis, Amazon S3
-* 📱 𝐌𝐎𝐁𝐈𝐋𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: React Native, Firebase, AWS Amplify, Push Notifications (FCM, OneSignal), Payments (Stripe, PayPal)
-- 🚀 𝐖𝐡𝐚𝐭 𝐒𝐞𝐭𝐬 𝐌𝐞 𝐀𝐩𝐚𝐫𝐭: Blockchain-first architecture | AI-powered apps | Fast Python backends with Web.py | MERN stack mastery | Timezone-friendly (US, UK, AU, CA) | 40+ hrs/week availability
+* 📱 𝐌𝐎𝐁𝐈𝐋𝐄 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: Cross-platform iOS & Android apps, React Native, Firebase, AWS Amplify, Push Notifications (FCM, OneSignal), Payments (Stripe, PayPal)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
