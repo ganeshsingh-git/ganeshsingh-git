@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/ganeshsingh-git/
 
-- 🌱 I’m currently learning **more on swiftUI and kotlin compose**
+- 🌱 I’m currently exploring advanced blockchain architectures, smart contract optimization, and Web3 integrations
 
 - 💬 Ask me about
 * 🔄 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐍𝐨-𝐂𝐨𝐝𝐞 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬: n8n, Zapier, Make (Integromat), Pabbly, Airtable Automations | CRM syncs, lead capture flows, Slack/Discord bots, email triggers, custom workflows | Webhooks, SaaS APIs, custom triggers/actions
