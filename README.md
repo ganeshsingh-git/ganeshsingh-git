@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
   💬 Ask me about
 Automations, Webhooks, SaaS APIs, custom triggers/actions
-
-🔗 𝐁𝐋𝐎𝐂𝐊𝐂𝐇𝐀𝐈𝐍 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: Solidity, Web3.js, Ethers.js, Truffle, Hardhat, Remix, Ethereum, Polygon, BSC, IPFS, Chainlink, Moralis
-
+* 🔗 𝐁𝐋𝐎𝐂𝐊𝐂𝐇𝐀𝐈𝐍 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: Solidity, Web3.js, Ethers.js, Truffle, Hardhat, Remix, Ethereum, Polygon, BSC, IPFS, Chainlink, Moralis
 * 🧠 𝐀𝐈 / 𝐌𝐋 𝐈𝐍𝐓𝐄𝐆𝐑𝐀𝐓𝐈𝐎𝐍: GPT-4, LangChain, Whisper, Hugging Face, Scikit-learn, TensorFlow, Dialogflow, Rasa, Python (Pandas, NumPy, Matplotlib), ML-based analytics
 * 🌐 𝐅𝐔𝐋𝐋-𝐒𝐓𝐀𝐂𝐊 𝐖𝐄𝐁 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐌𝐄𝐍𝐓: React.js, HTML/CSS/JS, Node.js (Express), Python (Web.py), Ruby on Rails, REST, GraphQL, WebSockets, Auth0, OAuth
 * ⚙️ 𝐂𝐈/𝐂𝐃 & 𝐃𝐞𝐯𝐎𝐩𝐬: Docker, Kubernetes, GitHub Actions, Firebase, Jenkins, GitLab CI
